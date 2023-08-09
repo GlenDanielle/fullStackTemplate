@@ -24,7 +24,7 @@ const AboutMe = () => {
         <div key={data.mema.id}>
 
           <div>
-            <p>{data.mema.name}</p>
+            <p>{data.mema1.name}</p>
           </div>
 
         </div>
